@@ -2,3 +2,15 @@ head img{
   height:300px;
   width:300px;
 }
+
+table{
+  border:10px dotted blueviolet;
+}
+
+td{
+  border:5px dashed blueviolet
+}
+
+tr{
+  border:7px solid blueviolet
+}
